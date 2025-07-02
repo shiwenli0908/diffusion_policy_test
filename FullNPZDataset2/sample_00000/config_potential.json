@@ -1,0 +1,35 @@
+{
+    "end_effector": [
+        0.0,
+        0.5
+    ],
+    "targets": [
+        {
+            "position": [
+                1.0,
+                0.7
+            ],
+            "color": "red"
+        },
+        {
+            "position": [
+                1.0,
+                0.3
+            ],
+            "color": "green"
+        }
+    ],
+    "x_range": [
+        -0.1,
+        1.1
+    ],
+    "y_range": [
+        -0.1,
+        1.1
+    ],
+    "resolution": [
+        300,
+        300
+    ],
+    "sigma": 0.15
+}
